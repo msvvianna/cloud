@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1b11679e-22f9-41d2-bfcc-6d0a5d24bf78" name="Changes" comment="Finalizado os estudos do Dia 5" />
+    <list default="true" id="1b11679e-22f9-41d2-bfcc-6d0a5d24bf78" name="Changes" comment="Finalizado os estudos do Dia 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,12 +27,12 @@
     &quot;assignee&quot;: &quot;msvvianna&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/msvvianna/cloud.git",
-    "accountId": "a23ec0d4-9b35-4606-84f7-76e617af56e5"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/msvvianna/cloud.git&quot;,
+    &quot;accountId&quot;: &quot;a23ec0d4-9b35-4606-84f7-76e617af56e5&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -89,6 +91,7 @@
       <workItem from="1749032473367" duration="1268000" />
       <workItem from="1749294969569" duration="3000" />
       <workItem from="1749553770748" duration="121000" />
+      <workItem from="1749563256735" duration="794000" />
     </task>
     <task id="LOCAL-00001" summary="Finalizado os estudos do Dia 1">
       <option name="closed" value="true" />
@@ -138,7 +141,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749553864534</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Finalizado os estudos do Dia 5">
+      <option name="closed" value="true" />
+      <created>1749564323207</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749564323207</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
